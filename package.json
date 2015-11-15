@@ -26,6 +26,19 @@
   "author": "Alex Costa",
   "license": "ISC",
   "directories": {
-    "test": "tests"
-  }
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanx/nodejs-restify-blog.git"
+  },
+  "keywords": [
+    "node.js",
+    "restify",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/deanx/nodejs-restify-blog/issues"
+  },
+  "homepage": "https://github.com/deanx/nodejs-restify-blog#readme"
 }

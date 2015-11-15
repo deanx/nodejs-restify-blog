@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "describe": true,
+    "console": true
+  },
+  "rules": {
+    "strict": 0,
+    "func-names": 0,
+    "no-console": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extends": "../.eslintrc",
+  "globals": {
+    "mocha": true,
+    "chai": true,
+    "request": true,
+    "describe": true,
+    "before": true,
+    "beforeEach": true,
+    "it": true,
+    "after": true,
+    "config": true
+  }
+}
